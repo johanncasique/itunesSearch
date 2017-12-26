@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Ciber-Test
+
+  Created by johann casique on 26/12/2017.
+  Copyright © 2017 johann casique. All rights reserved.
+*/
+
+//Home
+"TITLE_HOME" = "Itunes search";
+"SEARCH_PLACEHOLDER" = "Search Artist";
+"ERROR_MESSAGE" = "Ups! something is wrong";
+
